@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MacroKeyboardConfiguration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d04b67a76905ba5dc7b25b55fe12546465264e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MacroKeyboardConfiguration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MacroKeyboardConfiguration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
