@@ -1,3 +1,8 @@
+using System;
+using System.Linq;
+using System.Windows.Forms;
+using HidLibrary;
+
 namespace MacroKeyboardConfiguration
 {
     internal static class Program

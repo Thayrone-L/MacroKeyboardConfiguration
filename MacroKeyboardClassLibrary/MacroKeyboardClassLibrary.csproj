@@ -8,8 +8,8 @@
 
   <ItemGroup>
     <Folder Include="Business\" />
-    <Folder Include="Entities\" />
     <Folder Include="Data\" />
+    <Folder Include="Entities\" />
   </ItemGroup>
 
 </Project>

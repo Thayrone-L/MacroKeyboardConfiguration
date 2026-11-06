@@ -49,6 +49,20 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "RawInputProcessor": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Svg": {
+              "target": "Package",
+              "version": "[3.4.7, )"
+            },
+            "hidlibrary": {
+              "target": "Package",
+              "version": "[3.3.40, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

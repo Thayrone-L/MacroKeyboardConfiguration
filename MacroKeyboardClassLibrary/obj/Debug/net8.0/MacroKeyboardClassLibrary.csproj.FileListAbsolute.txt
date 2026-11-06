@@ -1,0 +1,12 @@
+C:\Users\thayr\source\repos\MacroKeyboardConfiguration\MacroKeyboardClassLibrary\bin\Debug\net8.0\MacroKeyboardClassLibrary.deps.json
+C:\Users\thayr\source\repos\MacroKeyboardConfiguration\MacroKeyboardClassLibrary\bin\Debug\net8.0\MacroKeyboardClassLibrary.dll
+C:\Users\thayr\source\repos\MacroKeyboardConfiguration\MacroKeyboardClassLibrary\bin\Debug\net8.0\MacroKeyboardClassLibrary.pdb
+C:\Users\thayr\source\repos\MacroKeyboardConfiguration\MacroKeyboardClassLibrary\obj\Debug\net8.0\MacroKeyboardClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayr\source\repos\MacroKeyboardConfiguration\MacroKeyboardClassLibrary\obj\Debug\net8.0\MacroKeyboardClassLibrary.AssemblyInfoInputs.cache
+C:\Users\thayr\source\repos\MacroKeyboardConfiguration\MacroKeyboardClassLibrary\obj\Debug\net8.0\MacroKeyboardClassLibrary.AssemblyInfo.cs
+C:\Users\thayr\source\repos\MacroKeyboardConfiguration\MacroKeyboardClassLibrary\obj\Debug\net8.0\MacroKeyboardClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\thayr\source\repos\MacroKeyboardConfiguration\MacroKeyboardClassLibrary\obj\Debug\net8.0\MacroKeyboardClassLibrary.sourcelink.json
+C:\Users\thayr\source\repos\MacroKeyboardConfiguration\MacroKeyboardClassLibrary\obj\Debug\net8.0\MacroKeyboardClassLibrary.dll
+C:\Users\thayr\source\repos\MacroKeyboardConfiguration\MacroKeyboardClassLibrary\obj\Debug\net8.0\refint\MacroKeyboardClassLibrary.dll
+C:\Users\thayr\source\repos\MacroKeyboardConfiguration\MacroKeyboardClassLibrary\obj\Debug\net8.0\MacroKeyboardClassLibrary.pdb
+C:\Users\thayr\source\repos\MacroKeyboardConfiguration\MacroKeyboardClassLibrary\obj\Debug\net8.0\ref\MacroKeyboardClassLibrary.dll

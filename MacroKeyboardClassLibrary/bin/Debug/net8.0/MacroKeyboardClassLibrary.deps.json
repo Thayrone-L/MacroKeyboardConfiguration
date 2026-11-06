@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MacroKeyboardClassLibrary/1.0.0": {
+        "runtime": {
+          "MacroKeyboardClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MacroKeyboardClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
